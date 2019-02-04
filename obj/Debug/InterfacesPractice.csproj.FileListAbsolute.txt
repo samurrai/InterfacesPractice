@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\InterfacesPractice\InterfacesPractice\bin\Debug\InterfacesPractice.exe.config
+C:\Users\User\source\repos\InterfacesPractice\InterfacesPractice\bin\Debug\InterfacesPractice.exe
+C:\Users\User\source\repos\InterfacesPractice\InterfacesPractice\bin\Debug\InterfacesPractice.pdb
+C:\Users\User\source\repos\InterfacesPractice\InterfacesPractice\obj\Debug\InterfacesPractice.csprojAssemblyReference.cache
+C:\Users\User\source\repos\InterfacesPractice\InterfacesPractice\obj\Debug\InterfacesPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InterfacesPractice\InterfacesPractice\obj\Debug\InterfacesPractice.exe
+C:\Users\User\source\repos\InterfacesPractice\InterfacesPractice\obj\Debug\InterfacesPractice.pdb
